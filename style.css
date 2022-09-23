@@ -151,10 +151,10 @@ body {
     color: white;
     font-size: 17px;
   }
-  .box .checked {
+ 
+  .checked {
     color: orange;
   }
-  
 .text-kiri h1 {
   color: white;
 }
@@ -355,6 +355,27 @@ body {
     max-width: 100%;
   }
 }
+
+footer {
+  background-color: #151515;
+  height: 400px;
+}
+
+.text-footer {
+  margin-top: 100px;
+}
+.text-footer h1 {
+  color: white;
+  font-size: 21px;
+}
+.text-footer p {
+  color: white;
+}
+
+.justify {
+  justify-content: space-between;
+}
+
   
   .col1 {
     width: 5.3333333333%;
